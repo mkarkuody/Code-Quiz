@@ -1,3 +1,4 @@
+/* wanted to have a different background color and have same  font family for all contents   */
 body{
     background-color: rgb(189, 184, 184);
     margin-top: 10%;
@@ -27,6 +28,7 @@ body{
     margin-top: 15%;
     margin-left: 25%;
 }
+/* change the title background color to be seperated from the other texts  */
 #title{
     font-family: cursive;
     font-size: 35px;
